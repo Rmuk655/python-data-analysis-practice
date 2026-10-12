@@ -11,6 +11,6 @@ Practice notebooks for pandas and statistics, from the Introduction to Statistic
 ## Run
 
 ```bash
-pip install numpy pandas matplotlib openpyxl jupyter
+pip install -r requirements.txt
 jupyter notebook
 ```
